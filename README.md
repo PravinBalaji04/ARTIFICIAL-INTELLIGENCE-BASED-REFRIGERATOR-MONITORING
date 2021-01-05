@@ -1,0 +1,2 @@
+# ARTIFICIAL-INTELLIGENCE-BASED-REFRIGERATOR-MONITORING
+This project aims to design and implement an object counting mechanism using image processing and gives daily update to the User through Message. To develop a hardware prototype to senses the individual count of vegetables/fruits inside the refrigerator (basically a stock management system).  The quality of the food products is been monitored by the system (damaged/rotten). The message is sent with the information about the list of the products available inside And also periodically with low stock alerts. 
